@@ -8,7 +8,8 @@ Adafruit_GPS GPS(&mySerial); //Create the GPS Object
 
 
 ///kjhadsfkjhlkjashdfkchlkzjhfdlcjkhzlkjdvh
-//lsdkjfhlkjshdlfhkjashdfkjh
+// hello world this is brijesh kumar.
+// hello github
  
 String NMEA1; //Variable for first NMEA sentence
 String NMEA2; //Variable for second NMEA sentence
