@@ -5,6 +5,10 @@
 #include <SoftwareSerial.h> //Load the Software Serial library
 SoftwareSerial mySerial(3,2); //Initialize the Software Serial port
 Adafruit_GPS GPS(&mySerial); //Create the GPS Object
+
+
+///kjhadsfkjhlkjashdfkchlkzjhfdlcjkhzlkjdvh
+//lsdkjfhlkjshdlfhkjashdfkjh
  
 String NMEA1; //Variable for first NMEA sentence
 String NMEA2; //Variable for second NMEA sentence
